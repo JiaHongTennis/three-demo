@@ -1,0 +1,10 @@
+/* 标签样式 */
+.label {
+  color: #ffff00;
+  font-size: 1rem;
+}
+
+.hide{
+  display: none;
+}
+
